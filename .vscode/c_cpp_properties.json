@@ -1,0 +1,74 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/include",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/src",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Encoder",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Encoder/utility",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/XPT2046_Touchscreen",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit ILI9341",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/FastLED",
+                "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/variants/mega",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit STMPE610",
+                "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit TouchScreen",
+                "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/include",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/src",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Encoder",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Encoder/utility",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/XPT2046_Touchscreen",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit ILI9341",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit GFX Library",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit BusIO",
+                    "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/FastLED",
+                    "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit STMPE610",
+                    "/Users/danielkrueger/Documents/PlatformIO/Projects/SpectraBitmap mega2560/.pio/libdeps/megaatmega2560/Adafruit TouchScreen",
+                    "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/Users/danielkrueger/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/danielkrueger/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}

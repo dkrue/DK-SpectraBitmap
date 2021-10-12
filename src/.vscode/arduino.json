@@ -1,0 +1,8 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:mega",
+    "sketch": "DK-SpectraBitmap.ino",
+    "output": "../bin",
+    "port": "/dev/tty.usbmodemfd1321",
+    "configuration": "cpu=atmega2560"
+}

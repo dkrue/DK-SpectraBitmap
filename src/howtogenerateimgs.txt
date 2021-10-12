@@ -1,0 +1,3 @@
+python3 convert.py animations > pixelData.h
+
+		^ script    ^ folder of images ^ output file to be included in Arduino sketch
